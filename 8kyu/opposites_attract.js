@@ -12,5 +12,5 @@ function lovefunc(flower1, flower2){
     else {
       return false
     }
-  }
+}
   
